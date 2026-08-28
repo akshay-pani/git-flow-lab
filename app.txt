@@ -2,4 +2,4 @@ line1-feat1
 line2-feat1
 line3
 line4
-line5
+line5-HOTFIX
